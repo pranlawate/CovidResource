@@ -3,6 +3,10 @@
 
 # CovidResource :hospital:
  I am collecting all the Information I receive in this wiki to make it easily accessible and shareable to all. 
+ 
+ [List of Resources](https://github.com/pranlawate/CovidResource/wiki)
+ 
+ 
  Note: 
  - Only **Nashik** Area
  - Added as Received
